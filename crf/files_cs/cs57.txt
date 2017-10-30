@@ -1,0 +1,17 @@
+3-d
+graphics
+and
+rendering
+3-d
+graphics
+and
+rendering
+creating
+images
+3d
+models
+transformations
+shading
+lighting
+rastorization
+texturing

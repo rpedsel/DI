@@ -1,0 +1,17 @@
+advanced
+data
+stores
+advanced
+data
+stores
+non-relational
+data
+models
+simple
+interfaces
+query
+languages
+weak
+consistency
+benchmarking
+techniques
